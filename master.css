@@ -1,0 +1,41 @@
+p.best {
+  font-weight: 'bold';
+  color: red;
+  font-style: italic;
+}
+
+p.better {
+  font-weight: 'bold';
+  color: green;
+  font-style: italic;
+}
+
+p.good {
+  font-weight: 'bold';
+  color: blue;
+  font-style: italic;
+}
+
+.important {
+  font-style: italic;
+  color: red;
+}
+
+h1.strong {
+font-weight: bold;
+color: blue;
+font-variant: small-caps;
+font-family: cursive;
+
+}
+
+div.pictures{
+image-orientation: center;
+image-resolution: snap;
+
+
+}
+h2.subtitle{
+  align-self: baseline;
+  text-align: justify;
+}

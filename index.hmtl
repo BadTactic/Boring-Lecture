@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="master.css" rel="stylesheet" type="text/css" media="all">
+    <title>Cloning Website</title>
+  </head>
+
+  <body>
+    <h1 class="strong">A Boring Lecture</h1>
+    <h2>A brief introduction.</h2>
+
+    <p class="best">
+      Here is some Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    </p>
+
+    <p class="better">
+      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    </p>
+
+    <p class="good">
+      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    </p>
+      <ul class="important">
+        <li>Yadda yadda1</li>
+        <li>Yadda yadda2</li>
+        <li>yaddayadda3</li>
+      </ul>
+
+      <p>
+          Contact us if you have questions. Mail us at <a href="mailto:ajorve@gmail.com">ajorve@gmail.com</a>
+      </p>
+      <hr>
+      <hr>
+
+  <div class="pictures"><h2 class="subtitle">PICTURES OF A BORING LECTURE</h2>
+    <img src="boring-lecture.jpg">
+    <img src="boring-lecture2.jpg">
+  </div>
+
+
+
+
+    </p>
+  </body>
+</html>
